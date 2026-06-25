@@ -3,7 +3,7 @@
 ## Repository
 
 GitHub Repository:
-<YOUR_GITHUB_REPO_URL>
+https://github.com/arjun-byahut/kubernetes-multitier-assignment/
 
 ## Docker Images
 
