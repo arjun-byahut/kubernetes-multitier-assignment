@@ -8,10 +8,6 @@ https://github.com/arjun-byahut/kubernetes-multitier-assignment/
 ## Docker Images
 
 Docker Hub Repository:
-<YOUR_DOCKER_HUB_URL>
-
-Example:
-
 https://hub.docker.com/r/arjunbyahut/employee-api
 
 ## Application URL
